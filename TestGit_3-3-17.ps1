@@ -6,3 +6,5 @@ $compHostName
 whoami.exe
 
 Get-Module -Name posh-git
+
+Get-Command get-module
